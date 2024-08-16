@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(219, 172, 15);
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Zuppa{
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Ramen{
+    background-color: rgb(255, 187, 0);
+    color: rgb(67, 68, 0);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Shwarma{
+    background-color: rgb(214, 158, 3);
+    color: rgb(45, 46, 0);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
