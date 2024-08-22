@@ -1,0 +1,64 @@
+h1{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-align: center;
+    padding: 15px;
+    border-radius: 7px;
+    font-family: cursive;
+} 
+
+.Text-Align{
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Direction{
+    direction: unset ;
+    background-color: rgb(3, 158, 50);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Decoration{
+    text-decoration: underline;
+    background-color: rgb(0, 20, 136);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Transform{
+    text-transform: capitalize;
+    background-color: rgb(136, 0, 95);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Spacing{
+    word-spacing: 10px;
+    background-color: rgb(0, 136, 95);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Overflow{
+    overflow: scroll;
+    background-color: rgb(125, 0, 136);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.Text-Shadow{
+    text-shadow: 1px 1px 2px gray ;
+    background-color: rgb(0, 128, 187);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
