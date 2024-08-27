@@ -9,18 +9,24 @@ h1{
 
 .Text-Align{
     text-align: center;
-    background-color: crimson;
+    background-color: rgb(189, 2, 39);
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Direction{
     direction: unset ;
-    background-color: rgb(3, 158, 50);
+    background-color: rgb(3, 158, 132);
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Decoration{
@@ -29,6 +35,9 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Transform{
@@ -37,6 +46,9 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Spacing{
@@ -45,6 +57,9 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Overflow{
@@ -53,6 +68,9 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;
 }
 
 .Text-Shadow{
@@ -61,4 +79,7 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: cursive;s
 }

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+h1{
+    font-size: 16px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+
+h2{
+    /* mengatur ukuran font */
+    font-size: 24x;
+
+    /* mngatur ketebalan font */
+    font-weight: bold;
+
+    /* mengatur font style */
+    /* font-style: oblique; */
+
+    /* mengatur font family */
+    font-family: "Caveat", cursive;
+}
