@@ -1,0 +1,22 @@
+.Judul-Banner{
+    /* text-align: justify; */
+    background-color: aqua;
+    direction: rtl;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.paragraf-decoration{
+    /* text-decoration: line-through red dashed; */
+    /* letter-spacing: -2px; */
+    line-height: 15px;
+    word-spacing: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-overflow: ellipsis;
+    
+}

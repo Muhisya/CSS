@@ -1,0 +1,14 @@
+h3{
+    color: forestgreen;
+}
+
+h4, h5, h6{
+    text-align: center;
+    font-size: 25px;
+    color:brown
+}
+
+section{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
