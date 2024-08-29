@@ -1,0 +1,56 @@
+.ukuran-piksel {
+    background-color: rgb(226, 43, 43);
+    text-align: center;
+    margin: 24px;
+    color: white;
+    padding: 36px;
+    border-radius: 15px;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.ukuran-persen{
+    background-color: rgb(226, 147, 43);
+    text-align: center;
+    margin: 5%;
+    color: white;
+    padding: 6%;
+    border-radius: 3%;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.ukuran-em{
+    background-color: rgb(208, 226, 43);
+    text-align: center;
+    margin: 1.75em;
+    color: rgb(255, 255, 255);
+    padding: 1.95em;
+    border-radius: 1.2em;
+    font-family: cursive;
+    font-size: x-large; 
+}
+
+.ukuran-rem{
+    background-color: rgb(86, 226, 43);
+    text-align: center;
+    margin: 1.75rem;
+    color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 1.2rem;
+    font-family: cursive; 
+    font-size: x-large;
+}
+
+.ukuran-viewport{
+    background-color: rgb(43, 137, 226);
+    text-align: center;
+    color: white;
+    width: 40vw;
+    height: 15vh;
+    margin: auto;
+    padding: 25vh;
+    border-radius: 1.2rem; 
+    font-family: cursive;
+    font-size: x-large;
+}
