@@ -1,0 +1,21 @@
+*{
+    color: white;
+    font-family: cursive;
+}
+
+.body{
+    background-color: cornflowerblue;
+    overflow: auto;
+}
+
+.middle{  
+    clear: both;
+}
+
+.up img{
+    float: left;
+}
+
+.down img{
+    float: right;
+}

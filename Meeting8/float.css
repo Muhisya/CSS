@@ -1,0 +1,79 @@
+.banner {
+  background-color: rgb(135, 205, 222);
+  color: white;
+  overflow: auto;
+}
+
+.banner img {
+  float: right;
+}
+
+.clear {
+  clear: right;
+  background-color: rgb(184, 229, 255);
+}
+
+.box {
+  width: 100px;
+  height: 140px;
+  margin: 10px;
+  background-color: azure;
+  color: cornflowerblue;
+  float: left;
+}
+
+.special-box {
+  width: 100px;
+  height: 140px;
+  margin: 10px;
+  background-color: rgb(9, 153, 153);
+  color: #aec6f3;
+  clear: both;
+}
+
+.mybox {
+  background-color: deepskyblue;
+  /* overflow: auto; */
+}
+
+.box-1 {
+  width: 200px;
+  height: 400px;
+  float: left;
+  background-color: lightskyblue;
+}
+
+.box-2 {
+  width: 200px;
+  height: 400px;
+  float: right;
+  background-color: rgb(64, 234, 236);
+}
+
+p {
+  clear: both;
+}
+
+ul .navigate {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: lightskyblue;
+}
+
+ul .navigate li {
+  float: left;
+}
+
+ul .navigate li a {
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul .navigate li a:hover {
+  background-color: thistle;
+}
