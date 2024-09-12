@@ -1,0 +1,25 @@
+.Tab {
+  display: flex;
+  list-style: none;
+  background-color: cornflowerblue;
+  color: aliceblue;
+  padding: 10px;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  width: 350px;
+}
+
+.Tab li {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+  border-right: solid 1px;
+}
+
+.description {
+  width: 370px;
+  height: 100px;
+  overflow-y: scroll;
+  background-color: rgb(243, 243, 243);
+}

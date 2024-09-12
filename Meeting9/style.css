@@ -1,0 +1,54 @@
+.visible {
+  background-color: coral;
+  width: 350px;
+  height: 35px;
+  overflow: visible;
+}
+
+.hidden {
+  background-color: coral;
+  width: 350px;
+  height: 50px;
+  overflow: hidden;
+}
+
+.scroll {
+  background-color: coral;
+  width: 350px;
+  height: 500px;
+  overflow: scroll;
+}
+
+.auto {
+  background-color: coral;
+  width: 350px;
+  height: 500px;
+  overflow: auto;
+}
+
+.y {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.x {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.height {
+  height: 200vh;
+}
+
+hr {
+  margin-top: 100px;
+}
