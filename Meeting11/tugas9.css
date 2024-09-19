@@ -1,0 +1,28 @@
+#navlist-style{
+    justify-content: center;
+    background-color: rgb(241, 241, 241);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 26%;
+    height: 100%;
+    border-radius: 5px;
+    li{
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+    }
+}
+
+#navlist-style li a{
+    float: left;
+    display: block;
+    color: black;
+    padding: 12.5px;
+}
+
+#navlist-style a:hover {
+    background-color: aqua;
+
+}
