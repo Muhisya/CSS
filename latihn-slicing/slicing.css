@@ -217,6 +217,7 @@
 }
 
 .t-see {
+  margin-left: 250px;
   h1 {
     font-size: 25.06px;
     color: #4d4d4d;
@@ -241,12 +242,12 @@
 }
 
 #upgrade {
-  margin: 100px 5%;
   display: flex;
   justify-content: space-between;
 }
 
 .t-up {
+  margin-left: 5%;
   h1 {
     font-size: 25.06px;
     color: #4d4d4d;
@@ -271,9 +272,13 @@
 #upgrade {
   justify-content: space-between;
   align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #F5F7FA;
 }
 
 .box4 {
+  margin-right: 5%;
   display: flex;
   justify-content: space-between;
 }
@@ -312,6 +317,79 @@
   display: none;
 }
 
+#how {
+  margin: 100px 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.t-how {
+  margin-left: 250px;
+  h1 {
+    font-size: 25.06px;
+    color: #4d4d4d;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  p {
+    font-size: 9.74px;
+    color: #717171;
+    font-weight: 400;
+    margin-top: 20px;
+  }
+  button {
+    background-color: #faa613;
+    border: none;
+    color: white;
+    font-size: 11.14px;
+    padding: 12.5px 25px;
+    border-radius: 2.78px;
+    margin-top: 20px;
+  }
+}
+
+#team-h{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #F5F7FA;
+}
+
+.in-th{
+  margin-left: 5%;
+  margin-right: 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-it{
+  font-size: 11.14px;
+  font-weight: 500;
+  color: #717171;
+}
+
+
+
+.img-it {
+  align-items: center;
+  li{
+    list-style-type: none;
+    float: left;
+    margin: 15px 10px;
+  }
+
+  li a{
+    font-size: 12px;
+    text-align: center;
+    color: #FAA613;
+    text-decoration: none;
+  }
+
+  img{
+    width: 33.41px;
+    height: 33.41px;
+  }
+}
 
 
 button:hover {

@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+  }
+
+#card1{
+    /* border-radius: 10px; */
+    align-content: center;
+    margin-top: 50px;
+    padding-bottom: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 100px;
+    width: 32.5%;
+    /* background-color: blue; */
+}
+  
+
+.top-s{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.part1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 8.5px;
+}
+
+.av-text{
+    /* background-color: chocolate; */
+    width: 200px;
+    padding-left: 20px;
+    h1{
+        font-weight: 700;
+    }
+    p{
+        font-weight: 400;
+        color: grey;
+    }
+}
+
+.theimg{
+}
+
+.mid-img{
+    width: 100px;
+    align-items: center;
+    position: relative;
+    /* background-color: coral; */
+}
+
+
+.sale span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: rgb(255, 40, 83);
+    color: white;
+    right: 0px;
+    width: 115px;
+    height: 25px;
+    padding: 5px 2px;
+    top: 17px;
+    right: -325px;
+    text-align: center;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+#botttom {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.text {
+    width: 435px;
+    margin-left: 5px;
+    h1{
+        margin-top: 20px;
+        font-size: 30px;
+        font-weight: 750;
+    }
+    h2{
+        margin-top: 10px;
+        color: gray;
+        font-weight: 500;
+        font-size: 18px;
+    }
+    p{
+        margin-top: 7px;
+        font-size: 16px;
+    }
+}
+
+#card-2{
+    width: 350px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
+    rgba(0, 0, 0, 0.07) 0px 16px 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    height: fit-content;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.image-card-2 img{
+    width: 100% ;
+    padding-top: 10px;
+}
+.deskripsi{
+    padding: 20px;
+}
+.deskripsi h1{
+    color: #16192C;
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.deskripsi p{
+color: #425466;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 15px; 
+}
+
+.deskripsi button{
+    color: white;
+    border: none;
+    background-color: #4C6FFF;
+    padding: 10px 15px 10px 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+
