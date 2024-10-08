@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex box</title>
+    <style>
+        .contain{
+            width: 650px;
+            height: 300px;
+            border: 2px solid black;
+            margin: 30px auto;
+            padding: 2px;
+            /* flex's first characteristic is row */
+            display: flex;
+            align-items: 
+            /* flex-wrap: wrap; */
+            /* justify's first characteristic is start
+            justify-content: space-evenly; */
+            /* align-items: baseline; */
+            /* align-content: center   ;
+            justify-content: space-around; */
+            
+        }
+
+        .contain div{
+            margin: 2px;
+            width: 100px;
+            background-color: gold;
+            height: 100px;
+            align-items: 
+        }
+
+        .nd {
+            order: ;
+            align-self: flex-end;
+        }
+
+        .th {
+            align-self: self-start;
+        }
+        
+    </style>
+</head>
+<body>
+    <!-- Div first characteristic is block -->
+    <div class="contain">
+        <div class="st">1</div>
+        <div class="nd">2</div>
+        <div class="rd">3</div>
+        <div class="th">4</div>
+        <div class="tth">5</div>
+        <div class="ttth">6</div>
+        <div class="tttth">7</div>
+    </div>
+
+    <!-- a first characteristic is inline
+    <a href="">afasdfasdfasd</a>
+    <a href="">afasdfasdfasd</a> -->
+</body>
+</html>`
